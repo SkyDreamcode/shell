@@ -1,0 +1,69 @@
+Fri Apr 20 20:10:25 CST 2018
+total 32
+drwxrwxr-x 3 aispeech-xyw aispeech-xyw  4096 Apr 20 20:11 .
+drwxrwxr-x 4 aispeech-xyw aispeech-xyw  4096 Apr 20 12:17 ..
+drwxrwxr-x 8 aispeech-xyw aispeech-xyw  4096 Apr 20 12:21 .git
+-rw-rw-r-- 1 aispeech-xyw aispeech-xyw    29 Apr 20 20:10 log.180420
+-rwxrwxrwx 1 aispeech-xyw aispeech-xyw   377 Apr 20 20:11 shell.sh
+-rw-r--r-- 1 aispeech-xyw aispeech-xyw 12288 Apr 20 20:11 .shell.sh.swp
+aispeech-xyw tty7         2018-04-20 09:32 (:0)
+aispeech-xyw pts/18       2018-04-20 09:32 (:0)
+aispeech-xyw pts/2        2018-04-20 10:26 (:0)
+aispeech-xyw pts/19       2018-04-20 10:36 (:0)
+aispeech-xyw pts/20       2018-04-20 12:09 (:0)
+Fri Apr 20 20:11:27 CST 2018
+total 32
+drwxrwxr-x 3 aispeech-xyw aispeech-xyw  4096 Apr 20 20:13 .
+drwxrwxr-x 4 aispeech-xyw aispeech-xyw  4096 Apr 20 12:17 ..
+drwxrwxr-x 8 aispeech-xyw aispeech-xyw  4096 Apr 20 12:21 .git
+-rw-rw-r-- 1 aispeech-xyw aispeech-xyw   699 Apr 20 20:11 log.180420
+-rwxrwxrwx 1 aispeech-xyw aispeech-xyw   390 Apr 20 20:13 shell.sh
+-rw-r--r-- 1 aispeech-xyw aispeech-xyw 12288 Apr 20 20:13 .shell.sh.swp
+aispeech-xyw tty7         2018-04-20 09:32 (:0)
+aispeech-xyw pts/18       2018-04-20 09:32 (:0)
+aispeech-xyw pts/2        2018-04-20 10:26 (:0)
+aispeech-xyw pts/19       2018-04-20 10:36 (:0)
+aispeech-xyw pts/20       2018-04-20 12:09 (:0)
+Fri Apr 20 20:14:00 CST 2018
+total 32
+drwxrwxr-x 3 aispeech-xyw aispeech-xyw  4096 Apr 20 20:30 .
+drwxrwxr-x 4 aispeech-xyw aispeech-xyw  4096 Apr 20 12:17 ..
+drwxrwxr-x 8 aispeech-xyw aispeech-xyw  4096 Apr 20 12:21 .git
+-rw-rw-r-- 1 aispeech-xyw aispeech-xyw  1369 Apr 20 20:14 log.180420
+-rwxrwxrwx 1 aispeech-xyw aispeech-xyw   416 Apr 20 20:30 shell.sh
+-rw-r--r-- 1 aispeech-xyw aispeech-xyw 12288 Apr 20 20:30 .shell.sh.swp
+aispeech-xyw tty7         2018-04-20 09:32 (:0)
+aispeech-xyw pts/18       2018-04-20 09:32 (:0)
+aispeech-xyw pts/2        2018-04-20 10:26 (:0)
+aispeech-xyw pts/19       2018-04-20 10:36 (:0)
+aispeech-xyw pts/20       2018-04-20 12:09 (:0)
+Fri Apr 20 20:30:27 CST 2018
+44
+total 32
+drwxrwxr-x 3 aispeech-xyw aispeech-xyw  4096 Apr 20 20:32 .
+drwxrwxr-x 4 aispeech-xyw aispeech-xyw  4096 Apr 20 12:17 ..
+drwxrwxr-x 8 aispeech-xyw aispeech-xyw  4096 Apr 20 12:21 .git
+-rw-rw-r-- 1 aispeech-xyw aispeech-xyw  2042 Apr 20 20:30 log.180420
+-rwxrwxrwx 1 aispeech-xyw aispeech-xyw   456 Apr 20 20:32 shell.sh
+-rw-r--r-- 1 aispeech-xyw aispeech-xyw 12288 Apr 20 20:32 .shell.sh.swp
+aispeech-xyw tty7         2018-04-20 09:32 (:0)
+aispeech-xyw pts/18       2018-04-20 09:32 (:0)
+aispeech-xyw pts/2        2018-04-20 10:26 (:0)
+aispeech-xyw pts/19       2018-04-20 10:36 (:0)
+aispeech-xyw pts/20       2018-04-20 12:09 (:0)
+Fri Apr 20 20:32:45 CST 2018
+44
+total 32
+drwxrwxr-x 3 aispeech-xyw aispeech-xyw  4096 Apr 20 20:34 .
+drwxrwxr-x 4 aispeech-xyw aispeech-xyw  4096 Apr 20 12:17 ..
+drwxrwxr-x 8 aispeech-xyw aispeech-xyw  4096 Apr 20 12:21 .git
+-rw-rw-r-- 1 aispeech-xyw aispeech-xyw  2715 Apr 20 20:32 log.180420
+-rwxrwxrwx 1 aispeech-xyw aispeech-xyw   499 Apr 20 20:34 shell.sh
+-rw-r--r-- 1 aispeech-xyw aispeech-xyw 12288 Apr 20 20:34 .shell.sh.swp
+aispeech-xyw tty7         2018-04-20 09:32 (:0)
+aispeech-xyw pts/18       2018-04-20 09:32 (:0)
+aispeech-xyw pts/2        2018-04-20 10:26 (:0)
+aispeech-xyw pts/19       2018-04-20 10:36 (:0)
+aispeech-xyw pts/20       2018-04-20 12:09 (:0)
+Fri Apr 20 20:34:23 CST 2018
+44
